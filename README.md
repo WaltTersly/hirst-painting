@@ -1,0 +1,2 @@
+This project uses the colorgram.py package to extrract colors from an image which we will then use to create our own version of dots painting with the same randomized colors.
+It also uses the Turtle module to a very high standard.
